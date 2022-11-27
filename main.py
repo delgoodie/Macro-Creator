@@ -1,5 +1,4 @@
 import PySimpleGUI as sg
-from PySimpleGUI.PySimpleGUI import DEFAULT_METER_ORIENTATION
 import pyautogui as bot
 from pynput.mouse import Listener as mouse
 from pynput.keyboard import Key, Listener as keyboard
